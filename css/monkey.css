@@ -8,12 +8,12 @@ html {
   right: 120px;
 }
 
-@media screen and (max-width: 1170px) {
+@media screen and (min-width: 1170px) {
   #monkey {
     top: 0px;
   }
 }
-@media screen and (min-width: 406px) {
+@media screen and (max-width: 406px) {
   #monkey {
     top: 550px;
   }
