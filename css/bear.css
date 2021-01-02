@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 @media screen and (max-width: 1196px) {
-  body {
+  #bear {
     right: 800px;
   }
 }
